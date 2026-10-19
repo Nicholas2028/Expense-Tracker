@@ -1,11 +1,7 @@
 {
-	"folders": [
-		{
-			"name": "expense-tracker",
-			"path": "."
-		}
-	],
-	"settings": {
-		"java.configuration.updateBuildConfiguration": "interactive"
-	}
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
